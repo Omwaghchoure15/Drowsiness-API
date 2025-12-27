@@ -1,5 +1,4 @@
 Flask
-opencv-python-headless
-dlib
+gunicorn
 numpy
-scipy
+opencv-python-headless
